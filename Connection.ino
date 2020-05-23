@@ -1,5 +1,5 @@
 const char* ssid = "Pedro Batata";
-const char* password = "Cegueira";
+const char* password = "xxxxxxxxx";
 
 ESP8266WebServer server(80);
 
