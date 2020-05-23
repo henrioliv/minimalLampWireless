@@ -3,7 +3,7 @@
 
  The title says it all. This project has the objective to be a code for development of simple LED lamps. The idea of it is to allow developers and artists to have libraries of different colors, animations and functions so that the implementation of LED lamps is easier. 
  
- This README is still to be updated, this text refers to the [MinimalLamp](https://github.com/HenriqueOz/MinimalLamp, "Check it out!")
+ This README is still to be updated, this text refers to the [MinimalLamp](https://github.com/HenriqueOz/MinimalLamp "Check it out!")
 
 ## Code explained
 
